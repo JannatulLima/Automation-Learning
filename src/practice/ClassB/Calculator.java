@@ -1,6 +1,6 @@
 package practice.ClassB;
 
-import practice.classA.Calculation;
+import practice.ClassA.Calculation;
 
 public class Calculator {
     public static void main(String[] args) {
