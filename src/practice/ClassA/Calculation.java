@@ -1,4 +1,4 @@
-package practice.classA;
+package practice.ClassA;
 
 public class Calculation {
     private int num1, num2;

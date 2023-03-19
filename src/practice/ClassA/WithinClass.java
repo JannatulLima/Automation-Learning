@@ -1,4 +1,4 @@
-package practice.classA;
+package practice.ClassA;
 
 public class WithinClass {
     String name; //default access modifier
