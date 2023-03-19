@@ -1,4 +1,4 @@
-package practice.ClassA;
+package practice.classA;
 
 public class WithinPackage {
     public static void main(String[] args) {

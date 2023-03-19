@@ -1,6 +1,6 @@
 package practice.ClassB;
 
-import practice.ClassA.WithinClass;
+import practice.classA.WithinClass;
 
 public class OutsidePackageSubClassOnly {
     public static void main(String[] args) {
